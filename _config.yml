@@ -1,0 +1,28 @@
+name: DOMASINdesign
+favicon: null
+layout_spectrum: 0.2678027378860861
+typography_spectrum: 0.5784218984190375
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.450439604697749
+  lightness: 0.041404550429433584
+  saturation: 0.574717489304021
+  rhythmicContrast: 0.6331184832379222
+purpose: []
